@@ -3572,7 +3572,7 @@
                       // onClick: P,
                       // 点击时,打开新的页面
                       onClick: function () {
-                        window.open("https://xyhelper.cn");
+                        window.open("https://3-wins.cn/chatgpt");
                       },
                       children: (0, p.jsx)(X.Z, (0, f._)({}, n$.deleteAccount)),
                     }),
@@ -4214,7 +4214,7 @@
           children: [
             (0, p.jsxs)(tn, {
               as: "a",
-              href: "https://xyhelper.cn",
+              href: "https://3-wins.cn/chatgpt",
               target: "_blank",
               onClick: function () {
                 i(k.s6.clickFaqLink);

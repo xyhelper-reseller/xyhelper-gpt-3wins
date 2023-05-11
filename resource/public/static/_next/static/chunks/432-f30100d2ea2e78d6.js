@@ -569,7 +569,7 @@
           return a;
         },
       });
-      var a = "https://xyhelper.cn/plus";
+      var a = "https://3-wins.cn/chatgpt/plus";
     },
     1220: function (e, r, n) {
       n.d(r, {
